@@ -51,3 +51,77 @@ A login wireframe may show a form with username and password fields, and a login
 ---
 
 These elements help ensure that the design is user-friendly and effective before moving on to the high-fidelity design or development stages.
+
+
+
+## Types of Wireframes
+
+Wireframes come in different levels of detail, mainly categorized as **low-fidelity** and **high-fidelity** wireframes. Each type serves a different purpose in the design process.
+
+### 1. Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are quick, rough sketches that focus on structure and layout rather than details. They use simple shapes like boxes, lines, and placeholders to show where elements will go.
+
+**Characteristics:**
+- Simple and fast to create
+- No colors, images, or detailed text
+- Often hand-drawn or made with basic digital tools
+
+**When to Use:**
+- In the early stages of the design process
+- When brainstorming or sharing initial ideas
+- For quick feedback from team members or stakeholders
+
+**Example Use Case:**  
+Sketching out how the homepage of a website will be organized, with placeholders for the logo, menu, content, and footer.
+
+---
+
+### 2. High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are more polished and detailed. They closely resemble the final design, including precise spacing, fonts, buttons, and sometimes real content.
+
+**Characteristics:**
+- More visually detailed
+- Includes actual UI elements like dropdowns, buttons, and input fields
+- Sometimes includes grayscale styling or typography
+
+**When to Use:**
+- In later stages of the design process
+- When testing usability or sharing a more complete vision
+- Before creating prototypes or moving to development
+
+**Example Use Case:**  
+Presenting a wireframe of a mobile app screen that shows the exact position of icons, text input fields, and buttons for user login.
+
+---
+
+Choosing the right type of wireframe depends on the project stage and the kind of feedback you’re looking for.
+
+
+## Wireframe Type Example
+
+The wireframe shown in the link is a **High-Fidelity Wireframe**.
+
+### What Makes It High-Fidelity?
+
+This wireframe includes:
+
+- ✅ **Full Color**: The screens use real colors rather than grayscale or sketches.
+- ✅ **Images and Icons**: Product photos, profile images, and icons are all in place.
+- ✅ **Styled Typography**: Text uses various font sizes and weights for clear hierarchy.
+- ✅ **Detailed UI Elements**: Buttons, input fields, star ratings, tabs, and navigation bars are fully designed.
+- ✅ **Real Content**: The text shown (e.g., property names, prices, and button labels) is not placeholder but actual content.
+
+### When Is This Used?
+
+High-fidelity wireframes are typically used in the **later stages** of the design process. They help:
+
+- Test the actual user experience and flow.
+- Present a realistic look of the final product to stakeholders.
+- Prepare for the development phase by handing off complete visual specs to developers.
+
+### Summary
+
+> This is a high-fidelity wireframe because it looks and functions very closely to the final version of the app. It contains detailed visuals and interactive components that help in testing and finalizing the design before development begins.
+
