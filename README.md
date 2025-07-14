@@ -154,3 +154,37 @@ There are several tools available for creating wireframes, each offering differe
 Figma makes it easy to go from a low-fidelity sketch to a high-fidelity, interactive wireframe. Its simple interface, powerful features, and collaboration tools make it ideal for individuals and teams working on UI/UX projects.
 
 Whether you're just sketching out ideas or building a detailed app prototype, Figma supports every step of the design process.
+
+
+
+
+
+## Benefits of Wireframing in Software Development
+
+Wireframing plays a vital role in the software development process by providing a clear visual foundation before any code is written. It helps developers, designers, and stakeholders stay aligned throughout the project lifecycle.
+
+### 1. Guides the Design and Development Process
+
+Wireframes give developers a clear picture of what needs to be built. They outline the **structure**, **navigation**, and **core functionality** of the application before any actual development begins.
+
+**Example:**  
+In the high-fidelity wireframe example shown earlier, each screen (like Login, Home, and Reservation) clearly defines what elements are required—such as text fields, buttons, and images. Developers can use these visual cues to plan UI components and backend logic efficiently.
+
+### 2. Improves Communication Between Team Members
+
+Wireframes act as a **common visual language** between developers, designers, and product managers. Everyone can see and discuss the same thing, making it easier to understand the app’s flow and features.
+
+**Example:**  
+Instead of just saying “Add a login screen,” a wireframe shows exactly what that screen looks like, what fields are needed, where the buttons go, and what happens after the user clicks "Sign In." This reduces confusion and speeds up implementation.
+
+### 3. Reduces Rework and Saves Time
+
+By identifying layout problems and missing features early, wireframes help avoid costly changes during development.
+
+**Example:**  
+If a reservation screen lacks a confirmation step, this can be caught and fixed in the wireframe—before developers invest time building it incorrectly.
+
+---
+
+Wireframing is more than just a design step—it's a development strategy that keeps projects on track, efficient, and aligned across all teams.
+
